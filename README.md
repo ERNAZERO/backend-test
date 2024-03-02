@@ -28,26 +28,34 @@ DATABASES = {
 Для удобства работы с API использовал Postman. 
 
 Логин для получения токена:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 58 44" src="https://github.com/ERNAZERO/backend-test/assets/45794773/ce975063-8abd-4951-a618-92ebc8351747">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 48 01" src="https://github.com/ERNAZERO/backend-test/assets/45794773/5cc01032-989e-413c-9a85-b1ae683f83e5">
+
 
 Регистрация:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 18 02 36" src="https://github.com/ERNAZERO/backend-test/assets/45794773/1b89b8e8-4a71-4727-b464-a0f0e524ce78">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 53 40" src="https://github.com/ERNAZERO/backend-test/assets/45794773/968aadfc-9372-4930-b702-62350491b651">
 
 
 Список постов с пагинацией и счетчиком постов. На одной странице максимально может быть только 5 постов.
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 48 31" src="https://github.com/ERNAZERO/backend-test/assets/45794773/17cfef67-8a61-4e96-97cf-40205b62baee">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 48 57" src="https://github.com/ERNAZERO/backend-test/assets/45794773/9aa4d2b0-8c33-404b-ba87-d206c9e07d5e">
+
 
 Добавление поста:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 51 02" src="https://github.com/ERNAZERO/backend-test/assets/45794773/da47288a-1b27-4aea-8e48-107e7d08fb57">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 50 35" src="https://github.com/ERNAZERO/backend-test/assets/45794773/fb78d9c8-5d1c-49f1-b1e5-040fc2abfaa0">
+
 
 Добавление комментария к посту:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 52 45" src="https://github.com/ERNAZERO/backend-test/assets/45794773/3bfcc7b8-66af-421c-82c4-8fe5d7a2ce8f">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 17 52 45" src="https://github.com/ERNAZERO/backend-test/assets/45794773/82988999-db02-42ed-bec8-306f486a538e">
+
 
 Просмотр конкретного поста с его комментариями:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 53 39" src="https://github.com/ERNAZERO/backend-test/assets/45794773/216d4eb8-731a-4bb3-9e71-04c368c81a3f">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 51 33" src="https://github.com/ERNAZERO/backend-test/assets/45794773/1bdccf6f-fb0d-403a-80b8-c704b3a8295c">
+
 
 Лайк:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 56 00" src="https://github.com/ERNAZERO/backend-test/assets/45794773/70a30333-24c6-471e-b5b2-17045bd69e55">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 51 47" src="https://github.com/ERNAZERO/backend-test/assets/45794773/70bad1f9-ef53-4912-8ae7-59bf30644b9d">
+
 
 При повторном отправлении запроса лайка, лайк убирается:
-<img width="1440" alt="Снимок экрана 2024-03-02 в 17 57 02" src="https://github.com/ERNAZERO/backend-test/assets/45794773/47e1cf4d-7c2f-406a-95f3-5ba8e89d606d">
+<img width="1440" alt="Снимок экрана 2024-03-02 в 18 52 16" src="https://github.com/ERNAZERO/backend-test/assets/45794773/71f566ef-984b-4913-aa9a-835d6e7e8cf5">
+
+
