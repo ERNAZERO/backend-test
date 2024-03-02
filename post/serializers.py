@@ -15,9 +15,6 @@ class PostSerializer(serializers.ModelSerializer):
     created_at = serializers.CharField(
         read_only=True
     )
-    # id = serializers.IntegerField(
-    #     read_only=True
-    # )
 
     class Meta:
         model = Post

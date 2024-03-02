@@ -1,5 +1,3 @@
-import os
-
 from rest_framework.generics import get_object_or_404
 from rest_framework.pagination import PageNumberPagination
 from user.models import User
@@ -88,7 +86,7 @@ class LikeView(generics.GenericAPIView):
     serializer_class = LikeSerializer
 
     def post(self, request, post_id):
-        post = Post.objects.get(id=post_id)
+        post = get_object_or_404(Post, id=post_id)
         user = User.objects.get(id=request.user.id)
         like, created = Like.objects.get_or_create(author=user, post=post)
         if not created:

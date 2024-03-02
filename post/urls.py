@@ -5,7 +5,7 @@ from .views import (PostListView,
                     AddCommentView,
                     PostDetailView,
                     LikeView)
-from django.views.decorators.csrf import csrf_exempt
+
 
 urlpatterns = [
     path('post_list/', PostListView.as_view(), name='see_post'),
